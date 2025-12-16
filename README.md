@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Use This Template
+
+Create a new project using this template:
+
+```bash
+pnpm dlx create-next-app@latest my-app --example https://github.com/dfanso/nextjs-shadcn-personal-template
+```
+
+Or with npm/yarn:
+
+```bash
+npx create-next-app@latest my-app --example https://github.com/dfanso/nextjs-shadcn-personal-template
+```
+
 ## Getting Started
 
 First, run the development server:
